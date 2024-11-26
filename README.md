@@ -4,19 +4,6 @@
 Loops are fundamental control structures in Python that allow you to repeat code blocks efficiently. This workshop covers everything from basic loop concepts to advanced techniques 
 and best practices.
 
-## Table of Contents
-1. [Loop Fundamentals](#1-loop-fundamentals)
-2. [Types of Loops](#2-types-of-loops)
-3. [Loop Control Statements](#3-loop-control-statements)
-4. [Iteration Techniques](#4-iteration-techniques)
-5. [Advanced Loop Concepts](#5-advanced-loop-concepts)
-6. [Common Pitfalls and Solutions](#6-common-pitfalls-and-solutions)
-7. [Conditial Statements](#-7-conditional-statements)
-8. [Best Practices](#7-best-practices)
-9. [Debug Tips](#8-debug-tips)
-10. [Additional Resources](#9-additional-resources)
-11. [Learning Outcomes](#10-learning-outcomes)
-
 ## 1. Loop Fundamentals
 
 ### 1.1 Basic Concepts
