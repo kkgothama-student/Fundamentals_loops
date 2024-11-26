@@ -69,3 +69,6 @@ def longest_common_subsequence(str1, str2):
     Find the length of the longest subsequence common to both strings.
     """
     pass
+
+if __name__ == "__main__":
+    pass
