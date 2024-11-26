@@ -1,5 +1,3 @@
-# exercise.py
-
 def sum_with_while(start, end):
     """
     Calculate the sum of all numbers between start and end (inclusive) using a while loop.

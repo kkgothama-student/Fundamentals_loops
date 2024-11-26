@@ -1,5 +1,3 @@
-# test_exercise.py
-
 import unittest
 from exercise import *
 
